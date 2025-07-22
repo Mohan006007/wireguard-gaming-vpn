@@ -1,9 +1,0 @@
-# Never commit these
-*.key
-*.conf
-*.pem
-privatekey
-publickey
-*.log
-*.crt
-*.der
